@@ -1,0 +1,38 @@
+
+    .frase {
+        font-weight: bold ;
+        font-size: 30px;
+    }
+    
+    .filtro{
+      background-color:#f3f3f0;
+      padding: 20px;
+      border-radius: 20px;
+      display: inline-block;
+    }
+    .Qr-code{
+      width: 80%;
+      padding: 20px;
+      border-radius: 20px;
+      text-align: center;
+      margin:  auto;
+     }
+     
+    .filtro img{
+      border-radius: 20px;
+    }
+    .container{
+      background-color: #D0EBFF;
+      border-radius: 20px;
+      width: 80%;
+      margin: auto ;
+    }
+
+    .cabecalho{
+      text-align: center;
+    }
+    .attribution { font-size: 11px; 
+        padding: 20px;
+        text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  
