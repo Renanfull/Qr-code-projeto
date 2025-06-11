@@ -1,3 +1,10 @@
+    .titulo {
+        text-align:center;
+        font-style:normal;
+        padding: 20px;
+        color:black;
+        
+    }
 
     .frase {
         font-weight: bold ;
